@@ -9,6 +9,56 @@
    padding: 0%;
 }
 
+.carrito{
+   background-color: rgb(146, 146, 146);
+   border-bottom: solid rgb(234, 0, 255) 2px;
+   border-top: solid rgb(234, 0, 255) 2px;
+}
+
+.modalImg{
+   width: 70px;
+   margin-right: 10px;
+}
+
+.borrar{
+   margin-left: 5px;
+}
+
+.agregado{
+   margin: 0px;
+}
+
+.icon{
+   text-align: end;
+   display: grid;
+  
+ 
+}
+
+i {
+   margin: 5px;
+   padding: 5px;
+   font-size: 35px;
+   color: rgb(0, 0, 0) ;
+  
+}
+
+.tarjeta{
+   padding: 20px;
+   margin: 0px 0px 20px 0px;
+   align-items: center;
+   background-image: url(../Imagenes/backgroundSpace.png);
+}
+
+.precios{
+   padding: 5px;
+   margin-top: 5px;
+}
+.botones{
+   padding: 5px;
+   margin-bottom: 10px;
+}
+
 .trailer{
    font-weight: bold;
    text-decoration: none;
@@ -131,7 +181,7 @@ body{
    background-repeat: no-repeat;
        background-position: bottom;
        background-size: cover;
-       text-align: center;
+      text-align: center;
        
 }
 
@@ -214,7 +264,7 @@ h1{
 
 .titulos{
    color: rgb(102, 148, 247);
-   text-shadow: 3px 2px black;
+   text-shadow: 1px 2px black;
    font-family: 'Josefin Sans';
 }
 
